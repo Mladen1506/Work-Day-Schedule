@@ -6,6 +6,9 @@ A simple calendar application that allows the user to save events for each hour 
 
 ## Website
 
+* https://mladen1506.github.io/Work-Day-Schedule/
+
+
 <img width="1334" alt="Screen Shot 2021-09-26 at 6 04 49 PM" src="https://user-images.githubusercontent.com/89114955/134826096-13458e43-9218-4c7b-bf1b-78ee664ec88a.png">
 
 ## Built With
